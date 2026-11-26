@@ -1,6 +1,6 @@
 # Synthetic Financial Time-Series Generator for Stress Testing
 
-A beginner-friendly Streamlit showcase project for loading financial data, generating synthetic time-series data, applying stress scenarios, and analyzing risk.
+A intermediate level Streamlit showcase project for loading financial data, generating synthetic time-series data, applying stress scenarios, and analyzing risk.
 
 ## Project Structure
 
